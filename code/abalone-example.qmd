@@ -207,7 +207,7 @@ ggplot(data = abalone_clean,
 
 ### Creating a table with model coefficients, 95% confidence intervals, and more
 
-**Note:** both these functions are from `gtsummary`.
+**Note:** both these functions are from `gtsummary`. 
 
 ```{r abalone-table}
 tbl_regression(abalone_model,
